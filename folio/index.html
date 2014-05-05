@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>gabriel S</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- CSS -->
+    <link href="css/main.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+    <!-- Full Page Image Header Area -->
+    <div id="top" class="header">
+        <div class="vert-text">
+            <h1>Gabriel S</h1>
+
+            <!-- <h3> -->
+                 <ul class="menu">
+                    <li> <a href="#about">About</a> </li> 
+                    <li> <a href="#portfolio">Work</a> </li>
+                    <li> <script>
+                                document.write("<n uers=\"znvygb:tnoevry4110@tznvy.pbz\" ery=\"absbyybj\">Pbagnpg</n>".replace(/[a-zA-Z]/g,
+                                function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);}));
+                        </script>
+                    </li>
+                </ul>
+
+
+              <!--   <a href = "mailto:johnATgmailDOTcom" 
+                        onclick = "this.href=this.href
+                            .replace(/AT/,'&#64;')
+                            .replace(/DOT/,'&#46;')"
+                    >Contact Me</a> -->
+
+            <img src="img/clipart.png" class="clipart">
+        </div>
+    </div>
+
+    <!-- Intro -->
+    <div id="about" class="intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>About</h2>
+                    <p class="lead">Front end developer based in Brisbane, Australia.  Available for freelance work, get in touch <a target="_blank" href="http://twitter.com/gabrielsunol">here</a>.</p>
+                    <hr>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="portfolio" class="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <h2>Work</h2>
+                    
+                </div>
+            </div>
+                  
+                    
+                    <div class="portfolio-item">
+                        <!-- <a href="overlay overlay-scale"> -->
+                            <img class="img-portfolio img-responsive" src="img/folio.jpg">
+                       <!--  </a> -->
+                        <h4></h4>
+                    </div>
+                </div>
+           
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <ul class="list-inline">
+                        <li><a href="http://www.twitter.com/gabrielsunol"><i class="fa fa-twitter fa-2x"></i>
+                        </li>
+                        <li><a href="http://www.instagram.com/gabrielsunol"><i class="fa fa-instagram fa-2x"></i>
+                        </li>
+                        <li><a href="http://gsm4.co"><i class="fa fa-tumblr fa-2x"></i></a>
+                        </li>
+                    </ul><hr>
+                    
+                    <div class="top-scroll">
+                        <a href="#top"><img src="img/topscroll.png"></a>
+                    </div>
+
+                    <br><br><br>
+
+                    <p> &copy; gabriel S - Hosted on GitHub</p>
+                   
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</div>
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+    <!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
+    <script>
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+</body>
+
+</html>
