@@ -92,6 +92,17 @@ body {
   text-decoration: none;
 }
 
+.copy a {
+  text-decoration: none;
+  color: #595548;
+}
+
+ .copy a:hover {
+    color: #0099CC;
+}
+
+
+
 /* Services */
 
 /*.services {
