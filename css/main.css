@@ -17,8 +17,9 @@ body {
   font-size: 4.5em;
   font-weight: 100;
   color: #595548; 
+  color: black; 
   font-family: "Open Sans";
-  opacity: 0.8;
+  opacity: 0.6;
   position: static;
   
 }
@@ -63,7 +64,7 @@ body {
 .clipart{
 
   padding-top: 20px;
-  opacity: 0.6;
+  opacity: 0.9;
   max-width: 60%;
  
 }
