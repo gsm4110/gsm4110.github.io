@@ -72,11 +72,15 @@ body {
   display: table;
   height: 100%;
   width: 100%;
-  background-color: #EDEEE3;
-  /*background: url(../img/back.jpg);*/
-  top:0px;
+  /*background-color: #EDEEE3;*/
+  background: url(../img/bg.jpg)no-repeat center fixed;
+ /* top:0px;
   margin:0px;
-  padding: 0px;
+  padding: 0px;*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
  
 }
 
@@ -84,12 +88,12 @@ body {
 
 .intro {
   padding: 50px 0;
-  /*background: #EDEEE3;*/
-  background: #3B453D;
- /* color:#595548 ;*/
-  color: white;
+  background: #EDEEE3;
+  /*background: #3B453D;*/
+  /*color:#595548 ;*/
+  /*color: white;*/
   font-family: "Open Sans";
-  opacity: 0.8;
+ /* opacity: 0.8;*/
 }
 
 .intro a {
@@ -174,9 +178,13 @@ i.scroll:hover {
 
 @media (max-width: 768px) {
 	
-  /*.header {
-	background: url(../img/bg.jpg) no-repeat center center scroll; 
-  }*/
+  .header {
+	background: url(../img/bg.jpg) no-repeat center center fixed;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  }
 
   /*.callout {
 	background: url(../img/callout.jpg) no-repeat center center scroll; 
