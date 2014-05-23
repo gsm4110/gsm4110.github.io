@@ -8,6 +8,8 @@ body {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
+  /*background-color: #FCF5E3;*/
+  background-image: url(img/back.jpg);
 }
 
 .vert-text h1 {
@@ -71,6 +73,7 @@ body {
   height: 100%;
   width: 100%;
   background-color: #EDEEE3;
+  /*background: url(../img/back.jpg);*/
   top:0px;
   margin:0px;
   padding: 0px;
@@ -81,9 +84,12 @@ body {
 
 .intro {
   padding: 50px 0;
-  background: #EDEEE3;
-  color:#595548 ;
-  font-family: "Open Sans"
+  /*background: #EDEEE3;*/
+  background: #3B453D;
+ /* color:#595548 ;*/
+  color: white;
+  font-family: "Open Sans";
+  opacity: 0.8;
 }
 
 .intro a {
@@ -135,7 +141,8 @@ i.service-icon {
 }
 
 .top-scroll{
-  opacity: 0.6;
+  opacity: 0.5;
+
 }
 
 /* Footer */
