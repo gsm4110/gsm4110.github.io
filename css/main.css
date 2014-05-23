@@ -179,7 +179,7 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url(../img/bg.jpg) no-repeat center center fixed;
+	background: url(../img/bg.jpg) no-repeat center center scroll;
    -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
