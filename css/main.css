@@ -77,11 +77,9 @@ body {
   display: table;
   height: 100%;
   width: 100%;
-  /*background-color: #EDEEE3;*/
+
   background: url(../img/bg.jpg)no-repeat center fixed;
- /* top:0px;
-  margin:0px;
-  padding: 0px;*/
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -93,7 +91,7 @@ body {
 
 .intro {
   padding: 50px 0;
-  /*background: #EDEEE3;*/
+  background: #F2F2F2;
   /*background: #3B453D;*/
   /*color:#595548 ;*/
   /*color: white;*/
