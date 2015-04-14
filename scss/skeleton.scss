@@ -48,7 +48,7 @@ $font-color: #222;
 $font-family: /*"Raleway"*/"Courier New", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 //Grid Variables
-$container-width: 1440px;
+$container-width: 1460px;
 $container-width-larger-than-mobile: 85%;
 $container-width-larger-than-phablet: 80%;
 $total-columns: 12;
@@ -628,7 +628,7 @@ hr {
 }
 
 .project-item img {
-  max-width: 80%;
+  max-width: 90%;
   height: auto;
   margin-bottom: 3%;
 }
@@ -651,6 +651,7 @@ hr {
   margin-top: 0;
   margin-left: 0;
 }
+
 
 .contact {
   margin-top: 25%;
