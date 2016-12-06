@@ -65,15 +65,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/cv.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/cv.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/dist\/css\/animsition.css": {
 		"fileType": 16,
 		"ignore": 0,
@@ -145,6 +136,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63278,
+		"inputAbbreviatedPath": "\/images\/2.png",
+		"outputAbbreviatedPath": "\/images\/2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/bg.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -200,17 +202,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/gb.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 210451,
-		"inputAbbreviatedPath": "\/images\/gb.jpg",
-		"outputAbbreviatedPath": "\/images\/gb.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/goldbug.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -218,61 +209,6 @@
 		"initialSize": 760121,
 		"inputAbbreviatedPath": "\/images\/goldbug.png",
 		"outputAbbreviatedPath": "\/images\/goldbug.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/ipad.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 397697,
-		"inputAbbreviatedPath": "\/images\/ipad.jpg",
-		"outputAbbreviatedPath": "\/images\/ipad.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/iphone.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 68438,
-		"inputAbbreviatedPath": "\/images\/iphone.jpg",
-		"outputAbbreviatedPath": "\/images\/iphone.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/iphone1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 130994,
-		"inputAbbreviatedPath": "\/images\/iphone1.jpg",
-		"outputAbbreviatedPath": "\/images\/iphone1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mb-blog.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 199177,
-		"inputAbbreviatedPath": "\/images\/mb-blog.jpg",
-		"outputAbbreviatedPath": "\/images\/mb-blog.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/mb-pc.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 144108,
-		"inputAbbreviatedPath": "\/images\/mb-pc.jpg",
-		"outputAbbreviatedPath": "\/images\/mb-pc.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -288,17 +224,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/monitor.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 345454,
-		"inputAbbreviatedPath": "\/images\/monitor.jpg",
-		"outputAbbreviatedPath": "\/images\/monitor.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/peace.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -306,28 +231,6 @@
 		"initialSize": 6115,
 		"inputAbbreviatedPath": "\/images\/peace.png",
 		"outputAbbreviatedPath": "\/images\/peace.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/s copy.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 144396,
-		"inputAbbreviatedPath": "\/images\/s copy.jpg",
-		"outputAbbreviatedPath": "\/images\/s copy.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/s.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 144396,
-		"inputAbbreviatedPath": "\/images\/s.jpg",
-		"outputAbbreviatedPath": "\/images\/s.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
