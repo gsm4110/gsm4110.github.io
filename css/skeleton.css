@@ -474,6 +474,9 @@ hr {
   font-size: 18px;
   padding-right: 10%; }
 
+.main-title {
+  line-height: 1; }
+
 .work h5 {
   text-align: center;
   margin-top: 10%; }
@@ -521,7 +524,7 @@ hr {
   margin-left: 0; }
 
 .peace img {
-  width: 22px; }
+  width: 20px; }
 
 .project {
   margin-top: 5%; }
@@ -556,14 +559,20 @@ hr {
     /*left: 100px;*/ }
 
   .home-btn {
-    margin-left: 30px; }
+    margin-left: 38px; }
+
+  .three.columns {
+    width: 27% !important; }
+
+  .sub-title {
+    padding: 0 0 0 22px; }
 
   .contact-form {
     margin-top: 25%;
     margin-left: 15%; }
 
   .peace {
-    margin-left: 80px; }
+    margin-left: 85px; }
 
   .iphone-item img {
     width: 65%;
