@@ -485,6 +485,29 @@ hr {
   text-align: center;
   margin-top: 10%; }
 
+.proj {
+  display: inline-block;
+  margin-right: 5px;
+  padding: 8px 15px;
+  margin-bottom: 45px;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px; }
+
+.side-proj {
+  color: #6b6b6b !important;
+  /*&:hover {
+    color:#2fadd7 !important;
+  }*/ }
+
+.side-proj-1 {
+  color: #2fadd7 !important; }
+
+.latest-proj {
+  color: #2fadd7 !important; }
+
+.latest-proj-1 {
+  color: #6b6b6b !important; }
+
 .profile {
   text-align: center;
   position: relative;
@@ -510,7 +533,9 @@ hr {
   height: auto; }
 
 .work {
-  float: right; }
+  float: right;
+  text-align: center;
+  margin-top: 30px; }
 
 .contact-form {
   margin-top: 0;
@@ -583,6 +608,14 @@ hr {
   .peace {
     margin-left: 85px; }
 
+  .proj {
+    display: inline-block;
+    margin-right: 21px;
+    padding: 8px 25px;
+    margin-bottom: 45px;
+    border: 1px solid #d0d0d0;
+    border-radius: 4px; }
+
   .iphone-item img {
-    width: 65%;
+    width: 415px;
     height: auto; } }
