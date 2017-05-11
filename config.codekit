@@ -169,6 +169,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/browser.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 316302,
+		"inputAbbreviatedPath": "\/images\/browser.jpg",
+		"outputAbbreviatedPath": "\/images\/browser.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/clipart.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -253,6 +264,28 @@
 		"initialSize": 760121,
 		"inputAbbreviatedPath": "\/images\/goldbug.png",
 		"outputAbbreviatedPath": "\/images\/goldbug.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/iphoness.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 272565,
+		"inputAbbreviatedPath": "\/images\/iphoness.jpg",
+		"outputAbbreviatedPath": "\/images\/iphoness.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/mb-pc-r.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 405983,
+		"inputAbbreviatedPath": "\/images\/mb-pc-r.jpg",
+		"outputAbbreviatedPath": "\/images\/mb-pc-r.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
